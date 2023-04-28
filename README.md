@@ -10,9 +10,9 @@ The sample application is a simple Hello World application with the following ar
 
 #### Pre-requisites
 1. AWS Account
-2. Java 11
+2. Java 17
 3. Maven
-3. AWS [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html)
+3. AWS [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html) v1.82.0
 
 #### CLI Commands
 
