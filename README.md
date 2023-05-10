@@ -1,6 +1,6 @@
 ## AWS Lambda SnapStart with X-Ray
 
-This is a sample application to demonstrate using X-Ray with SnapStart enabled AWS Lambda function. You can find more details about this feature in [this]() blog post. 
+This is a sample application to demonstrate using X-Ray with SnapStart enabled AWS Lambda function. You can find more details about this feature in [launch blog](https://aws.amazon.com/blogs/compute/debugging-snapstart-enabled-lambda-functions-made-easy-with-aws-x-ray) post. 
 
 The sample application is a simple Hello World application with the following architecture
 
